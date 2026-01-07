@@ -1,0 +1,7 @@
+*.o
+*.out
+*.a
+build/
+CMakeFiles/
+CMakeCache.txt
+.DS_Store
